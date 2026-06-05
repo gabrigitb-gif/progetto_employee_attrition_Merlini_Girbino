@@ -1,0 +1,21 @@
+README.md
+
+# Progetto Employee Attrition
+
+## Descrizione Progetto
+Questo progetto è stato realizzato per il corso di Introduzione al Pensiero Computazionale e alla Data Science. Lo scopo è sviluppare un'analisi riproducibile e documentata.
+
+## Descrizione Dataset e Obiettivo
+Il dataset analizzato è "Employee Attrition". L'obiettivo (goal) principale dell'analisi è la previsione dell'abbandono dei dipendenti.
+
+## Modelli Usati
+*(Da completare nella Fase 4)*
+Utilizzeremo almeno 3 modelli diversi, includendo un modello lineare e uno non lineare.
+
+## Istruzioni per l'Esecuzione
+*(Da completare)*
+I file di analisi si trovano nella cartella `notebooks/`.
+
+## Membri del Gruppo
+* [Tuo Nome e Cognome] - Matricola: [Tua Matricola]
+* [Nome e Cognome Coinquilino] - Matricola: [Sua Matricola]
